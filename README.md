@@ -6,10 +6,11 @@
 
 ## Sou um estudante de Engenharia da Computação pela FACULDADE DESCOMPLICA TECNOLOGIA E EDUCACAO S.A.
 
-- 👨‍💻 Atuo como Técnico em CAD/CAM em uma empresa de tecnologia italiana voltada a soluções de desenvolvimento e corte para os setores de Calçados, Artefatos, Estofados, Vestuários e  Automotivo.
+- 👨‍💻 Atuei 12 anos como Técnico em CAD/CAM em uma empresa de tecnologia italiana voltada a soluções de desenvolvimento e corte para os setores de Calçados, Artefatos, Estofados, Vestuários e  Automotivo.
 - 📚 Tenho um conhecimento básico sobre Office, VBA, HTML, CSS, PHP, Mysql, Python e Javascript.
-- 📚 Atualmente estou aprendendo JAVA e Kotlin.
+- 📚 Atualmente estou aprendendo JAVA.
 - 💪🏼 Metas futuras: Desenvolver minhas habilidades de programação e aprender novas tecnologias.
+- 🧑‍🏫 Trabalho na empresa Senai Jau como Instrutor de Formação Profissional no setor Calçados.
 
 ---
 
