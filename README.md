@@ -8,7 +8,7 @@
 
 - 👨‍💻 Atuei 12 anos como Técnico em CAD/CAM em uma empresa de tecnologia italiana voltada a soluções de desenvolvimento e corte para os setores de Calçados, Artefatos, Estofados, Vestuários e  Automotivo.
 - 📚 Tenho um conhecimento básico sobre Office, VBA, HTML, CSS, PHP, Mysql, Python e Javascript.
-- 📚 Atualmente estou aprendendo JAVA.
+- 📚 Atualmente estou empenhado nas certificações da Microsoft.
 - 💪🏼 Metas futuras: Desenvolver minhas habilidades de programação e aprender novas tecnologias.
 - 🧑‍🏫 Trabalho na empresa Senai Jau como Instrutor de Formação Profissional no setor Calçados.
 
