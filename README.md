@@ -10,7 +10,7 @@
 - 📚 Tenho um conhecimento básico sobre Office, VBA, HTML, CSS, PHP, Mysql, Python e Javascript.
 - 📚 Atualmente estou empenhado nas certificações da Microsoft.
 - 💪🏼 Metas futuras: Desenvolver minhas habilidades de programação e aprender novas tecnologias.
-- 🧑‍🏫 Trabalho na empresa Senai Jau como Instrutor de Formação Profissional no setor Calçados.
+- 🧑‍🏫 Trabalho na empresa Senai Jau como Instrutor de Formação Profissional no setor Calçados e TI.
 
 ---
 
