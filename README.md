@@ -4,13 +4,13 @@
 
 ---
 
-## Sou um estudante de Engenharia da Computação pela FACULDADE DESCOMPLICA TECNOLOGIA E EDUCACAO S.A.
+## Sou um estudante de Engenharia da Computação pela FACULDADE UNIAMERICA DESCOMPLICA TECNOLOGIA E EDUCACAO S.A.
 
 - 👨‍💻 Atuei 12 anos como Técnico em CAD/CAM em uma empresa de tecnologia italiana voltada a soluções de desenvolvimento e corte para os setores de Calçados, Artefatos, Estofados, Vestuários e  Automotivo.
 - 📚 Tenho um conhecimento básico sobre Office, VBA, HTML, CSS, PHP, Mysql, Python e Javascript.
-- 📚 Atualmente estou empenhado nas certificações da Microsoft.
+- 📚 Atualmente estou empenhado nas certificações da Microsoft Azure, Amazon AWS, Google Cloud, Cisco, Oracle, Fortinet
 - 💪🏼 Metas futuras: Desenvolver minhas habilidades de programação e aprender novas tecnologias.
-- 🧑‍🏫 Trabalho na empresa Senai Jau como Instrutor de Formação Profissional no setor Calçados e TI.
+- 🧑‍🏫 Trabalho na empresa Senai Jau como Instrutor de Formação Profissional no setor Calçados e TI em espefico certificações cloud.
 
 ---
 
@@ -40,7 +40,7 @@
 
 [![Instagram](https://img.shields.io/badge/@gilsonmartias-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gilsonmartias)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gilsonmartias)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilsonfernandomartias/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilsonmartias/)
 
 <h3 align="left">Não temas, eu venci o mundo!</h3>
 <h4 align="left">Jesus Cristo</h4>
