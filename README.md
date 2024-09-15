@@ -34,9 +34,9 @@
 
 ---
 
-## Sinsta-se livre para entrar em contato ⤵️
+## Sinta-se livre para entrar em contato ⤵️
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://github.com/user-attachments/assets/5f555dc4-4e08-4767-8c44-6175ff25e77b" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 [![Instagram](https://img.shields.io/badge/@gilsonmartias-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gilsonmartias)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gilsonmartias)
