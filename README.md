@@ -3,16 +3,50 @@
 <a href=""><img src="https://media1.giphy.com/media/3oz8xALrfMNLmcNrVe/giphy.gif?cid=790b7611762e0a549d167f2febada8d713f0313d23fffccd&rid=giphy.gif&ct=g" width="100px"></a>
 
 ---
+# 👨‍🎓 Sobre Mim
 
-## Sou um estudante de Engenharia da Computação pela FACULDADE UNIAMERICA DESCOMPLICA TECNOLOGIA E EDUCACAO S.A.
+Sou estudante de **Engenharia da Computação** pela **Faculdade Uniamérica Descomplica Tecnologia e Educação S.A.** e atualmente curso **Ciência de Dados** pela **UNIVESP**.
 
-- 👨‍💻 Atuei 12 anos como Técnico em CAD/CAM em uma empresa de tecnologia italiana voltada a soluções de desenvolvimento e corte para os setores de Calçados, Artefatos, Estofados, Vestuários e  Automotivo.
-- 📚 Tenho um conhecimento básico sobre Office, VBA, HTML, CSS, PHP, Mysql, Python e Javascript.
-- 📚 Atualmente estou empenhado nas certificações da Microsoft Azure, Amazon AWS, Google Cloud, Cisco, Oracle, Fortinet
-- 💪🏼 Metas futuras: Desenvolver minhas habilidades de programação e aprender novas tecnologias.
-- 🧑‍🏫 Trabalho na empresa Senai Jau como Instrutor de Formação Profissional no setor Calçados e TI em espefico certificações cloud.
+## 💼 Experiência Profissional
+
+- 👨‍💻 Atuei por **12 anos como Técnico em CAD/CAM** em uma empresa italiana de tecnologia voltada a soluções de desenvolvimento e corte para os setores de:
+  - Calçados
+  - Artefatos
+  - Estofados
+  - Vestuário
+  - Automotivo
+
+- 🧑‍🏫 Trabalho há **3 anos no SENAI Jaú** como **Instrutor de Formação Profissional** nos setores de **Calçados** e **TI**, com foco em **certificações cloud**.
+
+## 🧠 Conhecimentos Técnicos
+
+- 💻 Linguagens e ferramentas:
+  - Office, VBA
+  - HTML, CSS, PHP, MySQL
+  - Python, JavaScript
+  - **C# (em estudo)**
+
+- ☁️ Certificações em andamento:
+  - Microsoft Azure
+  - Amazon AWS
+  - Google Cloud
+  - Cisco
+  - Oracle
+  - Fortinet
+
+## 🎯 Metas Futuras
+
+- 💪 Desenvolver habilidades avançadas em programação
+- 🚀 Aprender novas tecnologias e aplicar soluções inovadoras
+- 📊 Integrar conhecimentos de ciência de dados com computação em nuvem
+
+## 📱 Projeto em Desenvolvimento
+
+- **Sistema de Presença de Alunos com Firebase**  
+  Utilizando tecnologias como React, Firebase Authentication e Firestore para criar uma solução de controle de presença digital.
 
 ---
+
 
 <a href="https://github.com/GilsonMartias">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=gilsonmartias&show_icons=true&theme=dracula">
