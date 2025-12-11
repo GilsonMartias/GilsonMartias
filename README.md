@@ -5,7 +5,7 @@
 ---
 # 👨‍🎓 Sobre Mim
 
-Sou estudante de **Engenharia da Computação** pela **Faculdade Uniamérica Descomplica Tecnologia e Educação S.A.** e atualmente curso **Ciência de Dados** pela **UNIVESP**.
+Sou Formado em **Engenharia da Computação** e atualmente estou estudante o curso **Ciência de Dados** pela **UNIVESP**.
 
 ## 💼 Experiência Profissional
 
@@ -23,7 +23,7 @@ Sou estudante de **Engenharia da Computação** pela **Faculdade Uniamérica Des
 - 💻 Linguagens e ferramentas:
   - Office, VBA
   - HTML, CSS, PHP, MySQL
-  - Python, JavaScript
+  - Python, React, Next.js, JavaScript
   - **C# (em estudo)**
 
 - ☁️ Certificações em andamento:
