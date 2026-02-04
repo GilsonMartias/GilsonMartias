@@ -48,12 +48,12 @@ Sou Formado em **Engenharia da Computação** e atualmente estou estudante o cur
 ---
 
 
-<a href="https://github.com/GilsonMartias">
+<!-- <a href="https://github.com/GilsonMartias">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=gilsonmartias&show_icons=true&theme=dracula">
 </a>
 <a href="https://github.com/GilsonMartias">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonmartias&layout=compact&theme=dracula">
-</a>
+</a> -->
 
 ---
 
