@@ -16,7 +16,7 @@ Sou Formado em **Engenharia da Computação** e atualmente estou estudante o cur
   - Vestuário
   - Automotivo
 
-- 🧑‍🏫 Trabalho há **3 anos no SENAI Jaú** como **Instrutor de Formação Profissional** nos setores de **Calçados** e **TI**, com foco em **certificações cloud**.
+- 🧑‍🏫 Trabalho há **4 anos no SENAI Jaú** como **Instrutor de Formação Profissional** nos setores de **Calçados** e **TI**, com foco em **Certificações Cloud** e trabalho com automações industrial com IIoT.
 
 ## 🧠 Conhecimentos Técnicos
 
@@ -24,7 +24,7 @@ Sou Formado em **Engenharia da Computação** e atualmente estou estudante o cur
   - Office, VBA
   - HTML, CSS, PHP, MySQL
   - Python, React, Next.js, JavaScript
-  - **C# (em estudo)**
+  - **C#, React, Next.js (em estudo)**
 
 - ☁️ Certificações em andamento:
   - Microsoft Azure
@@ -42,8 +42,8 @@ Sou Formado em **Engenharia da Computação** e atualmente estou estudante o cur
 
 ## 📱 Projeto em Desenvolvimento
 
-- **Sistema de Presença de Alunos com Firebase**  
-  Utilizando tecnologias como React, Firebase Authentication e Firestore para criar uma solução de controle de presença digital.
+- **Alimentador com atualização remota**  
+  Utilizando tecnologias como React, Next.js, Node-RED, MQTT e PostgreSQL para criar uma solução de controle de alimentação de tanques.
 
 ---
 
